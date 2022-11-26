@@ -1,0 +1,25 @@
+.select
+{
+  padding: 5%;
+    width: 400px;
+   color: rgb(234, 14, 14); 
+}
+h1
+{
+
+    font-weight: bold;
+    font-size: 45px;
+}
+.button
+{
+    margin-top: 100px;
+    border: 3px solid black;
+    width: 700px;
+    height: 200px;
+    border-radius: 15px;
+    font-weight: bolder;
+}
+.cl{
+  margin-top: 150px;
+  background-color: bisque;
+}
